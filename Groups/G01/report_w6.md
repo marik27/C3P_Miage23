@@ -1,4 +1,4 @@
-.mw##### Week 6
+##### Week 6
 
 # Ikimath Adeoye
 
