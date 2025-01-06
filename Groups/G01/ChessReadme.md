@@ -1,5 +1,6 @@
 ## Kata  Implements 9 queens problems
 
+J'ai travaillé sur la branche `Ouassila` en y ajoutant des changements liés à mon kata
 > Dans mon kata, il était question de résoudre le problème des 9 reines dans le jeu d'echecs, 
 Pourquoi le Backtracking pour le problème des 9 reines ? 
 Le problème des 9 reines consiste à placer 9 reines sur un échiquier 9×9 de manière à ce qu'aucune ne puisse en attaquer une autre, c'est-à-dire :
